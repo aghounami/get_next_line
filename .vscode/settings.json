@@ -1,0 +1,11 @@
+{
+    "files.associations": {
+        "get_next_line.h": "c",
+        "__config": "cpp",
+        "array": "c",
+        "iterator": "c",
+        "string": "c",
+        "string_view": "c",
+        "vector": "c"
+    }
+}
