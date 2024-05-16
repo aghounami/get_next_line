@@ -48,14 +48,14 @@ This project doesn’t allow complex bonuses, but you can try the following:
 
 - Develop get_next_line() using only one static variable.
 - Manage multiple file descriptors at the same time.
-. Append the _bonus.[c/h] suffix to the bonus part files.
+- Append the _bonus.[c/h] suffix to the bonus part files.
 
-. The bonus part will only be assessed if the mandatory part is perfect.
+- The bonus part will only be assessed if the mandatory part is perfect.
 
 # Submission and Peer-evaluation
 Submit your assignment to your Git repository. Only the work inside your repository will be evaluated during the defense. Double-check the names of your files to ensure they are correct.
 
 When writing your tests, remember that:
 
-1- Both the buffer size and the line size can be of very different values.
-2- A file descriptor does not only point to regular files.
+- 1 Both the buffer size and the line size can be of very different values.
+- 2 A file descriptor does not only point to regular files.
